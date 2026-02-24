@@ -63,3 +63,7 @@ Consumes from:
 Publishes to:
 - `order.completed` - Order processed successfully
 - `purchase.failed` - Order processing failed
+
+---
+
+> This service was extracted from the monorepo `nest-microservice-store` as part of a microservices migration. Initial commits were done via multi-agent setup to avoid merge conflicts.
